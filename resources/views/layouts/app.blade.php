@@ -18,13 +18,11 @@
         align-self: center;
       }
       .containerright{
-        width:60%;
-        float:right;
         right:0;
         display: flex;
         justify-content: center;
         align-items: center;
-        padding-top: 10%;
+        padding-top: 188px;
       }
       .containerleft{
         width:40%;
@@ -47,13 +45,11 @@
     display: none;
   }
   .containerright{
-    width:100%;
-    float:right;
     right:0;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 10%;
+    padding-top: 188px;
     padding-left: 10%;
     padding-right: 10%;
   }
