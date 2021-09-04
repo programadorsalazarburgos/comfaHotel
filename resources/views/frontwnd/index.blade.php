@@ -8,7 +8,7 @@
 		<meta name="keywords" content="admin template, Apex admin template, dashboard template, flat admin template, responsive admin template, web app">
 		<meta name="author" content="PIXINVENT">
 		<meta name="userId" content="{{Auth::check() ? Auth::user()->id : ''}}">
-		<title>NANAIMO</title>
+		<title>HOTEL PISOJE DE COMFACAUCA</title>
 		<meta name="csrf-token" content="{{ csrf_token() }}">
 
 		<link rel="apple-touch-icon" sizes="60x60" href="img/ico/apple-icon-60.html">

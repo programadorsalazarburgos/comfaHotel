@@ -6,7 +6,7 @@
 
     <!-- CSRF Token -->
     <meta name="csrf-token" content="UiuzJblUxq58OYBfS2W6Kh22wuke3odzr4aLaERe">
-    <title>Nanaimo PMS | PMS Online para hoteles</title>
+    <title>HOTEL PISOJE</title>
 
     <link rel="stylesheet" type="text/css" href="http://hotelpms.cloud/pms/css/style.css">
   	<link href="https://fonts.googleapis.com/css?family=Poppins:600&display=swap" rel="stylesheet">
