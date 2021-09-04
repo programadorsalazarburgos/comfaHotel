@@ -158,7 +158,7 @@
       width: 40px;
     }
   </style>
-  <title>Login Form Using HTML And CSS Only</title>
+  <title>Login Hotel Pisojé</title>
 </head>
 
 <body>
