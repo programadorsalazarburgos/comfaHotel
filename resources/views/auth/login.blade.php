@@ -4,7 +4,7 @@
 
 <form  method="POST" action="{{ route('login') }}" name="login-form" id="user-login-form">
     {{ csrf_field() }}
-    <img id="logologin" src="{{ asset('Images/logo-nanaimo.svg') }}" >
+    <!-- <img id="logologin" src="{{ asset('Images/logo-nanaimo.svg') }}" > -->
   <h2 class="title">Bienvenido</h2>
         <div class="input-div one">
            <div class="i">
