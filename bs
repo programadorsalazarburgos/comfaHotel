@@ -1,0 +1,4 @@
+http://45.77.117.164/phppgadmin/
+
+DB_USERNAME=diamond
+DB_PASSWORD=lksdfgj53fd

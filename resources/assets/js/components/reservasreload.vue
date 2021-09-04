@@ -1,0 +1,3 @@
+<template>
+    <reservas></reservas>
+</template>

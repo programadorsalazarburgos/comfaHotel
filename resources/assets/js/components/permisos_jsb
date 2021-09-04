@@ -1,0 +1,8 @@
+roles->id: 1 name->administrador
+
+permissions->id:1 name->editar post
+
+role_has_permissions->permission_id:1 role_id:1
+
+model_has_roles->role_id:1 model_type:app/user  model_id=4
+

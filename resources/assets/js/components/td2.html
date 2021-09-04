@@ -1,0 +1,28 @@
+   <td width="25%" nowrap="" align="center">
+                    <table width="100%" border="0" cellpadding="2" cellspacing="2">
+                        <tbody>
+                            <tr>
+                              <td align="right" style="text-align:right;">
+                                    <div style="color:green; font-size:90%;">Disponible: <span id="msgMinRoomFree_165">7</span>
+                                    </div>
+                                    Número de habitaciones:
+                              </td>
+                            </tr>
+                            <tr>
+                                <td align="right">
+                                    <input type="hidden" name="MaxFreeRooms165" id="MaxFreeRooms165" value="7">
+                                    <input type="hidden" name="MinusNonRef165" id="MinusNonRef165" value="0">
+                                    <input type="hidden" style="width:40px;" name="NonRefOrgID165" id="NonRefOrgID165" value="0">
+
+                                    <select name="RoomNumber165" id="RoomNumber165" style="width:70px; padding:3px; font-size:120%;  text-align:center;" class="field" onchange="UpdateDropDown('165',document.getElementById('NonRefOrgID165').value,'2', true); document.getElementById('SelRoomNumb165').value=this.value; document.getElementById('RoomNumberNext165').value=this.value; CalcRoomPrice('100.00','1',this.value, 'TotalRoomPrice165', 'CalcRoomNumber165','3', 'ShowCalc165','CalcTotalRoomPrice165'); CheckRoomSelector();">
+                                        <option selected="" value="0">0 </option>
+                                        <option value="1">1 </option>
+                                        <option value="2">2 </option>
+                                    </select>
+                                    <input type="hidden" name="RoomNumber" id="RoomNumberNext165" value="0">
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <input type="hidden" name="RoomType" value="165">
+                    </td>
