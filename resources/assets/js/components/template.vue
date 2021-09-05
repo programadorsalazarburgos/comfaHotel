@@ -11,7 +11,7 @@
 						<router-link :to="{ name: 'inicio' }" :class="'logo-text float-left'">
 							<div class="logo-img"><img :src="base+'img/logo.png'"/>
 							</div>
-							<span class="text align-middle" style="font-size: 12px;">NANAIMO</span>
+							<span class="text align-middle" style="font-size: 12px;">HOSTAL</span>
 						</router-link>
 						<a id="sidebarToggle" href="javascript:;" class="nav-toggle d-none d-sm-none d-md-none d-lg-block"><i data-toggle="expanded" class="ft-toggle-right toggle-icon"></i>
 						</a>
